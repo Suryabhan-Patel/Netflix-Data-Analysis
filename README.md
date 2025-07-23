@@ -37,9 +37,9 @@ As someone passionate about both data science and entertainment content, I wante
 
 ## 🖼️ Output Visuals
 
-- `type_distribution.png` – Bar chart comparing number of Movies vs TV Shows  
-- `movie_duration.png` – Bar chart comparing the duration of movies  
-- `country_count.png` – Country-wise content distribution chart  
+- `plots\type_distribution.png` – Bar chart comparing number of Movies vs TV Shows  
+- `plots\movie_duration.png` – Bar chart comparing the duration of movies  
+- `plots\country_count.png` – Country-wise content distribution chart  
 
 ---
 
